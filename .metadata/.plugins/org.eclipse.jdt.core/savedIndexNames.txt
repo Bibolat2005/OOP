@@ -1,0 +1,13 @@
+INDEX VERSION 1.134+C:\Users\Биболат\eclipse-workspace\.metadata\.plugins\org.eclipse.jdt.core
+3003232531.index
+1865797976.index
+1516377126.index
+1912907391.index
+2533391559.index
+904282828.index
+3288760709.index
+3027006730.index
+705224873.index
+761603248.index
+3758574673.index
+2030968299.index
